@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Library/WebServer/Documents/api/app/Http/routes.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Http/Controllers/ClientsController.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Client.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Http/Controllers/StoresController.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Order.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Product.php</file>
+            <file>file:/Library/WebServer/Documents/api/config/constants.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Promotion.php</file>
+            <file>file:/Library/WebServer/Documents/api/app/Http/Controllers/ProcessorController.php</file>
+        </group>
+    </open-files>
+</project-private>
